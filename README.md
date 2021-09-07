@@ -21,6 +21,9 @@ To install the environment, do the following:
 
 To work on an assignment, open the terminal (on Windows you need to use the same Anaconda Prompt application you used to install the environment) and navigate to the directory containing this repository. Enter the command `conda activate mae345` to load the environment. Then run either `jupyter lab` or `jupyter notebook`. Both launch an interface for editing and running Python scripts in your browser. The former is a newer, more featureful interface while the latter is older and straightforward. Follow the instructions within the notebook to complete the assignment.
 
+Submission instructions are included at the end of each notebook file. 
+
 ## Accessing New and Updated Assignments
 
 As new assignments are released, either download the new files and place them in the folder containing the existing labs, or redownload this repository and replace the existing folder. You do not need to recreate the conda environment.
+
