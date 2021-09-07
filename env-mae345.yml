@@ -1,0 +1,16 @@
+name: mae345-py37
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - sympy
+  - numpy
+  - scipy
+  - matplotlib
+  - notebook
+  - jupyterlab
+  - opencv
+  - widgetsnbextension
+  - ipympl
+  - nodejs
