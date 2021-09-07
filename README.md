@@ -2,7 +2,7 @@
 
 Source code assignments for MAE345.
 
-This repository contains Jupyter notebook assignments for Princeton's MAE345/549 class. It is organized in the following manner:
+This repository contains Jupyter notebook assignments for Princeton's MAE345 (and COS346, ORF345, MAE549) class. It is organized in the following manner:
 
 - All Jupyter notebooks are placed in the top level directory so they have access to all other Python modules and paths referenced in them are consistent.
 - All data provided / collected for use in assignments resides in `data`.
