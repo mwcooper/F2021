@@ -1,4 +1,4 @@
-name: mae345-py37
+name: mae345
 channels:
   - defaults
   - conda-forge
