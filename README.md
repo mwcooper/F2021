@@ -1,6 +1,6 @@
 # Introduction to Robotics Fall 2021 Repository
 
-Source code assignments for MAE345 (COS346, ORF345, MAE549).
+Source code assignments for MAE345 (COS346, ECE345, MAE549).
 
 This repository contains Jupyter notebook assignments for Princeton's MAE345 class. It is organized in the following manner:
 
